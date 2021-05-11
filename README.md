@@ -1,4 +1,4 @@
-# Bin2Dec
+# border-radius-previewer
 - Um sistema sistema de pré-visualização da propriedade css "border-radius" (App-Ideas)
 
  # Planejamento
