@@ -10,9 +10,9 @@
  - [ ] Fazer um post no LinkedIn
 
 # Requisitos
-- [] O usuário pode ver uma caixa que tem uma propriedade `border-radius` aplicada a ela
-- [] O usuário pode alterar os 4 valores `border-radius` que são aplicados à caixa (superior esquerdo, superior direito, inferior esquerdo, inferior direito)
-- [] O usuário pode copiar o CSS resultante para a área de transferência
+- [ ] O usuário pode ver uma caixa que tem uma propriedade `border-radius` aplicada a ela
+- [ ] O usuário pode alterar os 4 valores `border-radius` que são aplicados à caixa (superior esquerdo, superior direito, inferior esquerdo, inferior direito)
+- [ ] O usuário pode copiar o CSS resultante para a área de transferência
 
 # Relatório
 ...
